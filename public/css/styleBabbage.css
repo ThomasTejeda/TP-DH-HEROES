@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(12, 52, 67);
+    background-image: url(/img/FondoBabbage.jpg);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgba(79, 12, 7, 0.918);
+    -webkit-text-stroke: 0px rgba(255, 251, 0, 0.768);
+    text-decoration: underline;
+    text-align: center
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    background-color: rgba(79, 12, 7, 0.918);
+    -webkit-text-stroke: 1px rgba(5, 0, 0, 0.472);
+    text-align: center;
+}
+
+h3 {
+    color: rgba(255, 255, 255, 0.927);
+    background-color: rgba(79, 12, 7, 0.918);
+}
+
+p {
+    color: rgb(255, 238, 0);
+}
+
+img {
+    padding-top: 0%;
+    padding-left: 2%;
+}
+
+a{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:oblique;
+    color: rgb(255, 255, 0);
+    background-color: rgba(79, 12, 7, 0.918);
+}

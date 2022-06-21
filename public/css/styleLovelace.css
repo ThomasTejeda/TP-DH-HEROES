@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(12, 52, 67);
+    background-image: url(/img/FondoLovelace2.jpeg);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgba(39, 38, 38, 0.87);
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.552);
+    text-decoration: underline;
+    text-align: center
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    background-color: rgba(39, 38, 38, 0.87);
+    -webkit-text-stroke: 1px rgba(5, 0, 0, 0.472);
+    text-align: center;
+}
+
+h3 {
+    color: rgba(255, 255, 255, 0.927);
+    background-color: rgba(39, 38, 38, 0.87);
+}
+
+p {
+    color: rgb(3, 29, 105);
+}
+
+img {
+    padding-top: 4%;
+    padding-left: 1%;
+}
+
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:inherit;
+    color: rgb(3, 252, 252);
+}

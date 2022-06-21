@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(12, 52, 67);
+    background-image: url(/img/FondoTuring.jpg);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgba(1, 5, 37, 0.685);
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.552);
+    text-decoration: underline;
+    text-align: center
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    background-color: rgba(1, 5, 37, 0.685);
+    -webkit-text-stroke: 1px rgba(5, 0, 0, 0.472);
+}
+
+h4 {
+    color: rgba(255, 255, 255, 0.927);
+    background-color: rgba(1, 5, 37, 0.685);
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    background-color: rgba(1, 5, 37, 0.685);
+    -webkit-text-stroke: 1px rgba(5, 0, 0, 0.472);
+    text-align: center;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    padding-top: 0%;
+    padding-left: 8%;
+}
+
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:inherit;
+    color: rgb(255, 242, 0);
+}

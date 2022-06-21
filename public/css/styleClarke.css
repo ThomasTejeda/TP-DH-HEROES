@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(12, 52, 67);
+    background-image: url(/img/criptografia.jpg);
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.927);
+    background-color: rgba(30, 21, 0, 0.823);
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.552);
+    text-decoration: underline;
+    text-align: center
+}
+
+h2 {
+    color: rgba(255, 255, 255, 0.927);
+    background-color: rgba(30, 21, 0, 0.823);
+    -webkit-text-stroke: 1px rgba(5, 0, 0, 0.472);
+    text-align: center;
+}
+
+h3 {
+    color: rgba(255, 255, 255, 0.927);
+    background-color: rgba(30, 21, 0, 0.823);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    padding-top: 0%;
+    padding-left: 10%;
+}
+
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:inherit;
+    color: rgb(3, 252, 252);
+}

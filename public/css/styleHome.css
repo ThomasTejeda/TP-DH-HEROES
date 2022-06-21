@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(12, 52, 67);
+    background-image: url(/img/FondoLibroDefinitivo.jpg);
+    
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgba(190, 80, 11, 0.259);
+    -webkit-text-stroke: 0px rgba(255, 255, 255, 0.768);
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    background-color: rgba(190, 80, 11, 0.259);
+    -webkit-text-stroke: 0px rgba(255, 255, 255, 0.768);
+    text-decoration: underline;
+    text-align: center;
+    
+}
+h3{
+    color: rgb(249, 249, 249);
+    background-color: rgba(121, 47, 0, 0.69);
+    -webkit-text-stroke: 0px rgba(255, 255, 255, 0.768);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:inherit;
+}
+
+h4 {
+    color: rgb(255, 242, 0);
+    -webkit-text-stroke: 0px rgba(255, 255, 255, 0.768);
+}
+
+
+p {
+    color: rgb(255, 238, 0);
+}
+
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:inherit;
+    color: rgb(255, 255, 0);
+}
